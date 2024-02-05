@@ -23,7 +23,10 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/a/Ximpw75' title='Video Walkthrough' width='100px' alt='Video Walkthrough' />
+
+
+<img src='https://imgur.com/uOkJgaF.gif' title='Video Walkthrough'  alt='Video Walkthrough' />
+
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
@@ -34,7 +37,7 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Challneges: DOM manipulation and Use of Jacascript methods 
 
 ## License
 
