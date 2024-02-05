@@ -25,7 +25,7 @@ Here's a walkthrough of implemented features:
 
 
 
-<img src='https://imgur.com/uOkJgaF.gif' title='Video Walkthrough'  alt='Video Walkthrough' />
+<img src='fund.gif' title='Video Walkthrough'  alt='Video Walkthrough' />
 
 
 <!-- Replace this with whatever GIF tool you used! -->
